@@ -1,1 +1,1 @@
-# custom-composite-action
+# custom-composite-action.
