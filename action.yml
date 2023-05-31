@@ -1,4 +1,4 @@
-name: 'Hello World Anas'
+name: 'Hello World JS'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
